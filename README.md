@@ -15,7 +15,7 @@
 <p align="center"><b>I'm dedicated to test driven development of web and mobile applications.</b></p>
 
 
-<p align="center"><b>Feel free to reach out on <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)" href="https://www.linkedin.com/in/joseph-corral/" /></b><p>
+<p align="center"><b>Feel free to reach out on <a href="https://www.linkedin.com/in/joseph-corral/"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)"  /></a></b><p>
 <p align="center">&nbsp; </p>
 
 ## Here are the technologies I've worked with so far
